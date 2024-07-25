@@ -14,9 +14,10 @@ Features:
 
 Getting Started:
 ----------------
-1. Ensure Python and necessary libraries (torch, clip, PIL) are installed.
-2. Place your dataset in the designated directories as outlined in the project structure.
-3. Run the provided scripts to train or evaluate the model with your data.
+1. Download the dataset using https://drive.google.com/file/d/1maf12DjW4ph-fDLR8KkjgyzTvfrQASfy/view?usp=sharing
+2. Ensure Python and necessary libraries (torch, clip, PIL) are installed.
+3. Place your dataset in the designated directories as outlined in the project structure.
+4. Run the provided scripts to train or evaluate the model with your data.
 
 Project Structure:
 ------------------
